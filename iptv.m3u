@@ -1,7 +1,5 @@
 #EXTM3U LIST IPTV FPT 118CH edited by binhhc 11-6-2026 (0933126888)
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",001: VTV1 test no @
-udp://225.1.2.249:30120
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",001: VTV1
 udp://@225.1.2.249:30120
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg",002: VTV2 
